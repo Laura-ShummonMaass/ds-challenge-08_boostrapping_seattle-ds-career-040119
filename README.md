@@ -1,15 +1,9 @@
 # Bootstrapping Challenge
 
-## Instructions
+## Exploring Pitchfork reviews by genre
 
-With your pair partner, use bootstrapping to estimate a confidence interval for a statistic that's of interest to you in your Mod 2 project.
+As part of our [Mod 2 Project](https://github.com/jnawjux/mod2_project), we were comparing the rating performance on Pitchfork of two different genres - Pop/R&B & Electronic music. In our review, we tested bootstrap sampling from our data on the two genres to check whether our results were consistent accross samples.  We focused on comparing the mean and getting the confidence intervals for the means of those two genres.  The results we found were consistent with those of our larger set of data. 
 
-* Fork this repo.
-* Create a new notebook documenting the process.
-* Replace this README file with one that documents your work and includes a link to your notebook.
-* Add, commit, and push your changes.
-* Share a link to your fork in #seattle-ds-040119-git
+## Details of our work:
 
-## Resources
-
-* [Bootstrapping Demo Notebook](bootstrap-demo.ipynb)
+* [Bootstrapping Our Data](Pop_Electric_Bootstramp.ipynb)
